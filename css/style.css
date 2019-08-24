@@ -1,0 +1,74 @@
+body{
+	font-family: Brandon_med;
+}
+/*header and banner section start*/
+.hd_slider{
+	background-image: url(../img/banner.jpg);
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+/*header section start*/
+header{
+	padding: 20px 0;
+}
+.nav_custom{
+	    padding: 0.5rem 0rem;
+}
+.navbar_custom{
+	background-color: #fff !important;
+}
+.manu ul li a{
+	color: #fff !important;
+	font-size: 18px;
+	padding: 0 20px !important;
+	transition: .5s;
+}
+.manu ul li:last-child a{
+	padding-right: 0 !important;
+}
+.manu ul li a:hover{
+	color: #7690c5 !important;
+}
+/*header section end*/
+/*slider section start*/
+.banner{
+	padding: 120px 0;
+}
+.carousel_custom{
+	top: -50px !important;
+}
+.dreams{
+	color: #fff !important;
+}
+.dreams h1{
+	font-family: Brandon_bld;
+	font-size: 66px;
+	margin-bottom: 80px;
+	word-spacing: -5px;
+}
+.dreams h2{
+	font-family: Brandon_light;
+	font-size: 32px;
+	margin-bottom: 50px;
+}
+.dreams button{
+	font-family: Brandon_bld;
+	font-size: 23px;
+	color: #fff !important;
+	background: transparent;
+	border: 2px solid #fff;
+    padding: 15px 65px;
+    border-radius: 5px;
+    transition: .5s;
+}
+.dreams button:hover{
+	background: #222222;
+	color: #7690c5 !important;
+	border: 2px solid #222222;
+}
+/*slider section end*/
+
+
+/*header and banner section end*/

@@ -1,0 +1,95 @@
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+   .manu ul li a {
+    padding: 5px 0px !important;
+    text-align: right;
+}
+.dreams h1 {
+    font-size: 22px;
+    margin-bottom: 25px;
+}
+
+.dreams h2 {
+    font-family: Brandon_light;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+.banner {
+    padding: 50px 0;
+}
+.dreams button {
+    font-size: 18px;
+    border: 2px solid #fff;
+    padding: 5px 20px;
+}
+
+.carousel_custom{
+	top: -35px !important;
+}
+
+
+
+
+}
+
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    
+    .manu ul li a {
+    padding: 5px 0px !important;
+    text-align: right;
+}
+
+.dreams h1 {
+    font-size: 45px;
+    margin-bottom: 40px;
+}
+
+.dreams h2 {
+    font-family: Brandon_light;
+    font-size: 22px;
+    margin-bottom: 25px;
+}
+.banner {
+    padding: 90px 0;
+}
+.dreams button {
+    font-size: 20px;
+    padding: 10px 55px;
+}
+
+
+
+}
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .dreams h1 {
+    font-size: 50px;
+    margin-bottom: 60px;
+}
+
+.dreams h2 {
+    font-family: Brandon_light;
+    font-size: 28px;
+    margin-bottom: 35px;
+}
+.banner {
+    padding: 90px 0;
+}
+
+
+
+
+}
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    
+}
+
+/*// Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+    
+    
+}
